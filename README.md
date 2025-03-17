@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DoniaCatita
-- asereje aja eje 
 
 <!---
 DoniaCatita/DoniaCatita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
